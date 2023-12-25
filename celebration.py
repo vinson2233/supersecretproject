@@ -8,7 +8,7 @@ st.subheader("1. Click play on this music")
 audio_file = open('myaudio.ogg', 'rb')
 audio_bytes = audio_file.read()
 
-st.audio(audio_bytes, format='audio/ogg')
+st.audio(audio_bytes, format="audio/mpeg")
 
 st.subheader("2. Click the button below")
 np.random.seed(42)
