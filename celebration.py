@@ -50,3 +50,6 @@ with st.expander("Yes click here"):
         Merry Christmas and may the coming year be filled with happiness and prosperity!\n
         🎄🎅🍴🌟☃️🦌🥰🎄🎅🍴🌟☃️🦌🎄🎅🍴🌟☃️🦌🎄🎅🍴🌟☃️🦌🎄🎅🍴🌟☃️
         """)
+
+st.write("Author : Vinson Ciawandy")
+st.write("Date   : 25th December 2023")
